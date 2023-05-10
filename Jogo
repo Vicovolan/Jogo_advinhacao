@@ -5,7 +5,7 @@ print("Bem vindo ao jogo de Adivinhação!")
 print("*********************************")
 
 numero_secreto = 42
-total_de_tentativas = 3
+total_de_tentativas = 4
 rodada = 1
 
 while (rodada <= total_de_tentativas ):
